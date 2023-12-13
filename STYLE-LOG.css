@@ -1,0 +1,194 @@
+/* **************LOGIN PAGE****************** */
+.container1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:600px;
+    width:450px;
+    background:white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 3px rgba(245, 243, 243, 0.4),0px 0px 9px 4px rgb(188, 188, 186);
+    
+    padding: 20px;
+    margin-left: 530px;
+  margin-top: 111px;
+  }
+    
+  
+  
+  .c-logo{
+  background-image: url('logo.jpg');
+  background-size: cover;
+  height:157px;
+  width:198px;
+  margin-top:-449px;
+  margin-left:50px;
+  
+  
+  
+  
+  }
+  h2{
+  font-family: 'Baloo 2', sans-serif;
+  margin-top: -126px;
+  margin-left: -356px;
+  
+  }
+  .details{
+  font-size:1.5rem;
+  margin-left: 549px;
+  margin-top: -395px;
+  
+  }
+  #name{
+  border-radius: 20px;
+  height:30px;
+  width:270px;
+  
+  }
+  #pass{
+  border-radius: 20px;
+  height:30px;
+  width:270px;
+  }
+  input{
+  font-size: 1.2rem;
+  }
+  p{
+  font-size:1.1rem;
+  text-decoration: none;
+  }
+  p a{
+  text-decoration: none;
+  }
+  .log1-btn{
+  margin: 13px;
+  border-radius: 18px;
+  font-size: 20px;
+  
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 552px;
+  margin-top: 40px;
+  width: 92px;
+  }
+  .log1-btn:hover{
+    color:rgb(244, 247, 244);
+    background-color: rgb(14, 104, 14);
+
+
+  }
+  
+  
+  .acc-btn{
+  border-radius: 141px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 85px;
+  margin-top: 40px;
+  width: 215px;
+  
+  }
+  .para{
+  margin-left: 543px;
+  margin-top: -31px;
+  }
+  
+  
+  /* ************create account****************** */
+  
+  .container2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:600px;
+    width:550px;
+    background:whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 3px rgba(245, 243, 243, 0.4),0px 0px 9px 4px rgb(188, 188, 186);
+    
+    padding: 20px;
+    margin-left: 456px;
+  margin-top: 111px;
+  }
+  
+  .c-logo1 img{
+    margin-bottom: 532px;
+    margin-left: 224px;
+    width: 23%;
+  }
+  .c-logo2 img{
+    margin-bottom: 522px;
+    margin-left: 170px;
+    width: 29%;
+
+  }
+  .para1{
+    margin-left: 598px;
+    margin-top: -534px;
+    font-size: 2.1rem;
+  
+  }
+  .details1{
+    margin-left: 520px;
+    margin-top: 40px;
+    font-size:1.4rem;
+  }
+  #pass1{
+    border-radius: 20px;
+    height:30px;
+    width:270px;
+    margin-left:20px;
+  
+  }
+  #name1{
+    border-radius: 20px;
+    height:30px;
+    width:270px;
+    margin-left:53px;
+  
+  }
+  #date{
+    border-radius: 20px;
+    height:30px;
+    width:270px;
+    margin-left:69px;
+  
+  }
+  #phone{
+    border-radius: 20px;
+    height:30px;
+    width:270px;
+    margin-left:20px;
+  }
+  .term{
+    color: rgb(7, 85, 240);
+  }
+  .create-btn{
+    height: 40px;
+    width: 270px;
+    margin-left: 90px;
+    cursor: pointer;
+    background-color: rgb(103, 143, 223);
+  
+  }
+  .create-btn:hover{
+    color:rgb(244, 247, 244);
+    background-color: rgb(14, 104, 14);
+
+  }
+  .para2{
+  font-size:0.9rem;
+  color:grey;
+  margin-left: 520px;
+  margin-top: 20px;
+  
+  }
+  .para3{
+  font-size:0.9rem;
+  color:rgb(7, 85, 240);
+  margin-left: 730px;
+    margin-top: -17px;
+  
+  }
